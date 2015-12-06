@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		069E30081C132676007895C2 /* button3.png in Resources */ = {isa = PBXBuildFile; fileRef = 069E30061C132676007895C2 /* button3.png */; };
+		069E30091C132676007895C2 /* button4.png in Resources */ = {isa = PBXBuildFile; fileRef = 069E30071C132676007895C2 /* button4.png */; };
+		069E30101C133684007895C2 /* gazou0.png in Resources */ = {isa = PBXBuildFile; fileRef = 069E300A1C133684007895C2 /* gazou0.png */; };
+		069E30111C133684007895C2 /* gazou1.png in Resources */ = {isa = PBXBuildFile; fileRef = 069E300B1C133684007895C2 /* gazou1.png */; };
+		069E30121C133684007895C2 /* gazou2.png in Resources */ = {isa = PBXBuildFile; fileRef = 069E300C1C133684007895C2 /* gazou2.png */; };
+		069E30131C133684007895C2 /* gazou3.png in Resources */ = {isa = PBXBuildFile; fileRef = 069E300D1C133684007895C2 /* gazou3.png */; };
+		069E30141C133684007895C2 /* gazou4.png in Resources */ = {isa = PBXBuildFile; fileRef = 069E300E1C133684007895C2 /* gazou4.png */; };
+		069E30151C133684007895C2 /* gazou5.png in Resources */ = {isa = PBXBuildFile; fileRef = 069E300F1C133684007895C2 /* gazou5.png */; };
 		06C054831C11E36800781EC8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 06C054821C11E36800781EC8 /* main.m */; };
 		06C054861C11E36800781EC8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 06C054851C11E36800781EC8 /* AppDelegate.m */; };
 		06C054891C11E36800781EC8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 06C054881C11E36800781EC8 /* ViewController.m */; };
@@ -27,6 +35,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		069E30061C132676007895C2 /* button3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button3.png; sourceTree = "<group>"; };
+		069E30071C132676007895C2 /* button4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button4.png; sourceTree = "<group>"; };
+		069E300A1C133684007895C2 /* gazou0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gazou0.png; sourceTree = "<group>"; };
+		069E300B1C133684007895C2 /* gazou1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gazou1.png; sourceTree = "<group>"; };
+		069E300C1C133684007895C2 /* gazou2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gazou2.png; sourceTree = "<group>"; };
+		069E300D1C133684007895C2 /* gazou3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gazou3.png; sourceTree = "<group>"; };
+		069E300E1C133684007895C2 /* gazou4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gazou4.png; sourceTree = "<group>"; };
+		069E300F1C133684007895C2 /* gazou5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gazou5.png; sourceTree = "<group>"; };
 		06C0547D1C11E36800781EC8 /* SlideshowApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideshowApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06C054811C11E36800781EC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		06C054821C11E36800781EC8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -96,6 +112,14 @@
 		06C054801C11E36800781EC8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				069E300A1C133684007895C2 /* gazou0.png */,
+				069E300B1C133684007895C2 /* gazou1.png */,
+				069E300C1C133684007895C2 /* gazou2.png */,
+				069E300D1C133684007895C2 /* gazou3.png */,
+				069E300E1C133684007895C2 /* gazou4.png */,
+				069E300F1C133684007895C2 /* gazou5.png */,
+				069E30061C132676007895C2 /* button3.png */,
+				069E30071C132676007895C2 /* button4.png */,
 				06C054811C11E36800781EC8 /* Info.plist */,
 				06C054821C11E36800781EC8 /* main.m */,
 			);
@@ -200,8 +224,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				06C0548C1C11E36800781EC8 /* Main.storyboard in Resources */,
+				069E30151C133684007895C2 /* gazou5.png in Resources */,
+				069E30111C133684007895C2 /* gazou1.png in Resources */,
+				069E30101C133684007895C2 /* gazou0.png in Resources */,
+				069E30081C132676007895C2 /* button3.png in Resources */,
+				069E30131C133684007895C2 /* gazou3.png in Resources */,
 				06C054911C11E36800781EC8 /* LaunchScreen.xib in Resources */,
+				069E30121C133684007895C2 /* gazou2.png in Resources */,
+				069E30141C133684007895C2 /* gazou4.png in Resources */,
 				06C0548E1C11E36800781EC8 /* Images.xcassets in Resources */,
+				069E30091C132676007895C2 /* button4.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -416,6 +448,7 @@
 				06C054A21C11E36800781EC8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		06C054A31C11E36800781EC8 /* Build configuration list for PBXNativeTarget "SlideshowAppTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +457,7 @@
 				06C054A51C11E36800781EC8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
